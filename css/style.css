@@ -35,7 +35,7 @@ img {
 /* ========================
     header
   ======================== */
-header {
+#header {
   display: flex;
   justify-content:space-between;
   align-items: center;
@@ -84,6 +84,9 @@ main{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+#about p {
+  font-size: 14.5px;
 }
 #about img {
   width: 100px;
